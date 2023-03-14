@@ -11,7 +11,8 @@ During my time at Mizzou, I have learned programming languages such as Python, J
 ![Lafferee Hall](/images/Lafferre-Hall.webp)
 ![Ellis Library](/images/Ellis_Library.jpeg)
 ![Journalism Library](/images/Journalism-Library.jpeg)
-first picture from starting from the left, *Lafferee Hall*; middle photo, *Ellis Library*; last pictured, *Journalism Library*
+
+- first picture from starting from the left, *Lafferee Hall*; middle photo, *Ellis Library*; last pictured, *Journalism Library*
 
 <!DOCTYPE html>
     <html>
