@@ -7,12 +7,14 @@ During my time at Mizzou, I have learned programming languages such as Python, J
 - [JavaScript](https://www.w3schools.com/js/)
 - [C#](https://www.w3schools.com/cs/index.php)
 
-#### Places I Study at the University of Missouri-Columbia. Below are images of the locations I tend to study at the university.
+#### Places I study at the University of Missouri-Columbia. Below are images of the locations I tend to study at the university.
 ![Lafferee Hall](/images/Lafferre-Hall.webp)
 ![Ellis Library](/images/Ellis_Library.jpeg)
 ![Journalism Library](/images/Journalism-Library.jpeg)
 
-- first picture from starting from the left, *Lafferee Hall*; middle photo, *Ellis Library*; last pictured, *Journalism Library*
+- First picture from starting from the left, *Lafferee Hall*; middle photo, *Ellis Library*; last pictured, *Journalism Library*
+
+- Below is my block of code, enjoy!
 
 <!DOCTYPE html>
     <html>
