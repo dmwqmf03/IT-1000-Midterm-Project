@@ -1,4 +1,4 @@
-# Welcome to my Home Page
+# Welcome to My Home Page
 
 This project will consist of knowledge of my IT background, academics, places I like to study,and my personal preferences of tourist places in Chicago, IL.
 
