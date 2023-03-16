@@ -20,6 +20,6 @@ Hi, my name is **Destiny Ward**, and I am an Information Technology major, and c
     </body>
 </html>
 
-[Next](/markdown_two.md)
+[Back](/README.md) | [Next](/markdown_two.md)
 
 [Home](/README.md) | [Academics](/markdown_two.md) | [Places I Visit at the University of Missouri-Columbia](/markdown_three.md) | [Portillo's](/markdown_four.md) | [Navy Pier](/markdown_five.md)
