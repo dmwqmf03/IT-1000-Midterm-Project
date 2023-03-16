@@ -19,4 +19,4 @@ This code was taken from [HTML Block and Incline Elements](https://www.w3schools
 
 [Next](/markdown_three.md)
 
-[Home](/markdown_home.md) | [About Me](/markdown_one.md) | [Places I Visit at the University of Missouri-Columbia](/markdown_three.md) | [Portillo's](/markdown_four.md) | [Navy Pier](/markdown_five.md)
+[Home](/README.md) | [About Me](/markdown_one.md) | [Places I Visit at the University of Missouri-Columbia](/markdown_three.md) | [Portillo's](/markdown_four.md) | [Navy Pier](/markdown_five.md)
