@@ -20,4 +20,4 @@ This code was taken from [HTML Inline CSS](https://www.w3schools.com/html/html_c
 
 [Next](/markdown_four.md)
 
-[Home](/markdown_home.md) | [About Me](/markdown_one.md) | [Academics](/markdown_two.md) | [Portillo's](/markdown_four.md) | [Navy Pier](/markdown_five.md)
+[Home](/README.md) | [About Me](/markdown_one.md) | [Academics](/markdown_two.md) | [Portillo's](/markdown_four.md) | [Navy Pier](/markdown_five.md)
