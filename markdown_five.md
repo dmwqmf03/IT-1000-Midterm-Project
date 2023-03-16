@@ -26,4 +26,4 @@ This code was taken from [JavaScript Tutorial](https://www.w3schools.com/js/)
         </body>
     </html>
 
-[Home](/README.md) | [About Me](/markdown_one.md) | [Academics](/markdown_two.md)| [Places I Visit at the University of Missouri-Columbia](/markdown_three.md) | [Portillo's](/markdown_four.md)
+[Home](/README.md) | [About Me](/markdown_one.md) | [Academics](/markdown_two.md) | [Places I Visit at the University of Missouri-Columbia](/markdown_three.md) | [Portillo's](/markdown_four.md)
