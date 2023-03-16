@@ -10,6 +10,8 @@
 
 <img src="/images/navy-pier.jpeg"  width="60%" height="30%">
 
+The image above was taken from: [Navy Pier Wiki](https://en.wikipedia.org/wiki/Navy_Pier)
+
 You can visit their website at: [Navy Pier](https://navypier.org/)
 
 Below is a block of code written in JavaScript:
