@@ -2,8 +2,8 @@
 <img src="/images/Lafferre-Hall.webp"  width="60%" height="30%">
 <img src="/images/Ellis_Library.jpeg"  width="60%" height="30%">
 <img src="/images/Journalism-Library.jpeg"  width="60%" height="30%">
-First picture from starting from the left, *Lafferee Hall*; middle photo, *Ellis Library*; last pictured, *Journalism Library*
-First picture starting from the left, *Lafferee Hall*; middle photo, 
+First picture starting from the left, *Lafferee Hall*; middle photo, *Ellis Library*; last pictured, *Journalism Library*
+<!--- Italicized effect is not working on hall and library locations, but is applied --->
 
 Below is a block of code written in HTML:
 This code was taken from [HTML Inline CSS](https://www.w3schools.com/html/html_css.asp)
