@@ -11,7 +11,9 @@ During my time at Mizzou, I have learned programming languages such as Python, J
 ![Lafferee Hall](/images/Lafferre-Hall.webp)
 ![Ellis Library](/images/Ellis_Library.jpeg)
 ![Journalism Library](/images/Journalism-Library.jpeg)
-
+<img src="/images/Lafferre-Hall.webp"  width="60%" height="30%">
+<img src="/images/Ellis_Library.jpeg"  width="60%" height="30%">
+<img src="/images/Journalism-Library.jpeg"  width="60%" height="30%">
 - First picture from starting from the left, *Lafferee Hall*; middle photo, *Ellis Library*; last pictured, *Journalism Library*
 
 - Below is my block of code written in HTML and JavaScript.
@@ -37,4 +39,4 @@ The next few pages will consist of places I like to vist when I am at home in Ch
 
 [Next](/markdown_one.md)
 
-[Home](/markdown_home.md)| [About Me](/markdown_one.md) | Navy Pier | The Bean | The Magnificant Mile
+[Home](/markdown_home.md)| [About Me](/markdown_one.md) | [Portillo's](/markdown_two.md)| Navy Pier | The Bean | The Magnificant Mile

@@ -1,12 +1,10 @@
 # Welcome to my Home Page
 
-This project will consist of knowledge of my IT background, and my personal preferences of tourist places in Chicago, IL.
+This project will consist of knowledge of my IT background, academics, places I like to study,and my personal preferences of tourist places in Chicago, IL.
 
-The purpose of the About Me page is to provide background of myself and to get to know me before diving into popular places to visit in Chicago, IL.
-
-Below are Table of Contents. Excluding the About Me page, each page is titled by each tourist location:
+Below are Table of Contents. Each page is titled by each topic/discussion point.
 - [About Me](/markdown_one.md)
-- [Portillos](/markdown_two.md)
-- [Navy Pier](/markdown_three.md)
-- [The Bean](/markdown_four.md)
-- [The Magnificant Mile](/markdown_five.md)
+- [Academics](/markdown_two.md)
+- [Places I Visit at the University of Missouri-Columbia](/markdown_three.md)
+- [Portillo's](/markdown_four.md)
+- [Navy Pier](/markdown_five.md)
