@@ -1,5 +1,5 @@
 ## About Me
-Hi, my name is **Destiny Ward**, and I am an Information Technology major, and currently enrolled as a dual enrolled BSIT/MBA student. I’m from the South Suburbs for Chicago, which is about six hours from Mizzou. I currently work as a Peer Learning Assistant at Mizzou.
+Hi, my name is **Destiny Ward**, and I am an Information Technology major, and currently enrolled as a dual enrolled BSIT/MBA student. I’m from the South Suburbs for Chicago, which is about six hours from Mizzou. I currently work as a *Peer Learning Assistant* at Mizzou.
 
 - Below is my block of code written in HTML and JavaScript.
 
